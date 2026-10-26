@@ -158,7 +158,10 @@ nav a:hover {
     font-size: 0.9rem;
     font-style: italic;
 }
-
+.module-content h3{
+    margin-top: 3rem;
+    border-bottom: 1px lightgray solid;
+}
 /**introduction */
 .introduction, .learning-outcomes, .module-content, .footer {
     padding: 20px;
