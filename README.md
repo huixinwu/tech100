@@ -1,33 +1,20 @@
-<h2 >Welcome to the Software Engineering AI-Enhanced Full Stack Development Bootcamp OER course</h2>
-<p >This OER bootcamp course provides instruction in full stack web application
-development using modern JavaScript technologies. Students design, implement, and deploy web based
-solutions while applying AI assisted development tools in an ethical and effective manner. The
-curriculum emphasizes problem solving, system design, teamwork, and industry standard best practices,
-with dedicated focus on cloud native development—including containerization, distributed services, and
-modern deployment pipelines—as well as API first architecture, enabling students to build scalable,
-maintainable, and interoperable applications aligned with current industry expectations.
-<p>
-                This OER course is structured into six modules, each focusing on essential concepts and practical skills
-                in modern full-stack web development with AI assistance. Each module includes lectures, hands-on labs,
-                and projects that allow students to apply their knowledge in real-world scenarios. The curriculum
-                emphasizes problem-solving, system design, teamwork, and industry-standard best practices, with
-                dedicated focus on cloud-native development—including containerization, distributed services, and modern
-                deployment pipelines—as well as API-first architecture, enabling students to build scalable,
-                maintainable, and interoperable applications aligned with current industry expectations. The six modules
-                are as follows:
-            <ul>
-                <li>Module 1: Source Control and Modern Web Foundations with AI Assistance</li>
-                <li>Module 2: JavaScript Fundamentals with AI-Assisted Learning</li>
-                <li>Module 3: JavaScript DOM and Events: Building Interactive Web Interfaces with AI Support</li>
-                <li>Module 4: ReactJS and Component-Based UI Development with AI Assistance</li>
-                <li>Module 5: Advanced React: Routing, State Management and API-First Front-End Architecture</li>
-                <li>Module 6: Node.js Asynchronous Programming, Server Development and Cloud-Native Foundations</li>
-            </ul>
-            </p>
-            <p >
-                Each module includes corresponding chapters, hands-on laboratory exercises, and projects designed to
-                reinforce key concepts and provide opportunities for practical application. Throughout the OER,
-                AI-assisted learning activities guide students in using AI tools effectively to understand programming
-                concepts, solve problems, develop applications, and strengthen their independent learning skills.
-            </p>
-            </p>
+<div>
+<p><strong><span lang="EN-US">Introduction</span></strong></p>
+<p><span lang="EN-US">This Open Educational Resource (OER) provides comprehensive guidance to engineering technology students, focusing on the essential skills required to construct and manage engineering technology projects. The material is organized into four modules:</span><span>&nbsp;</span></p>
+</div>
+<div>
+<ul>
+<li><span lang="EN-US">Introduction to Engineering Technology: Covering the history, philosophy, and methodology of engineering and technology professions in computer, electrical, and mechanical disciplines. It also presents student with information to help students in their freshman semester as engineering technology students to successful achieve their academic goals.&nbsp;</span><span> \</span></li>
+<li><span lang="EN-US">Basic Math and Technical Skills: Introducing and reviewing mathematical and analytical skills, Word processing, data analysis, graphical presentation along with experimentation and data interpretation and presentation techniques.</span><span> </span></li>
+<li><span lang="EN-US">Engineering and Technology Ethics: Presenting engineering data and designs and addressing ethical and professional considerations.</span><span> </span></li>
+<li><span lang="EN-US">Application of AI in the field of engineering technology: This topic explores how AI tools and techniques can be applied in various engineering domains to optimize design, automate processes, predict system failures, and support data-driven decision-making for enhanced productivity and innovation.</span><span>&nbsp;</span></li>
+</ul>
+</div>
+<div>
+<p><span lang="EN-US">Each module includes lecture materials, hands-on lab exercises, and projects, available in PDF and Word formats, with supplemental instructional videos. Lab activities are integrated to reinforce concepts, and projects are designed to challenge students to apply their knowledge to real-world scenarios, with clear instructions, grading rubrics, and examples provided.&nbsp;</span><span>&nbsp;</span></p>
+</div>
+<div>
+<p>OER authors: Professors Huixin Wu, Professor Hamid Namdar, and Professor Lingfeng Wu Arenas, from the Engineering Technology Department (QCC/CUNY).</p>
+<p>This OER material is copyrighted under the terms of a Creative Commons license:</p>
+<div><a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/"><img src="https://huixinwu.github.io/WebTechnology/images/copyrighted.png" height="107" style="width: 303px;"></a><br><em>This work is freely redistributable for non-commercial use, share-alike with attribution.</em></div>
+</div>
