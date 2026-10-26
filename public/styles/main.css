@@ -193,15 +193,16 @@ h2.subtitle{
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
-    width: 350px;
-    height: 350px;
     text-align: center;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
-
+.card{
+    width: 350px;
+    height: 350px;
+}
 .card-chapter{
     width: 250px;
-    height: 200px;
+    height: 220px;
 }
 
 .card:hover, .card-chapter:hover {
@@ -234,6 +235,15 @@ h2.subtitle{
     font-size: 1rem;
     color: darkslategray;
     line-height: 1.5;
+}
+.card-link-multilabs{
+    text-align: left;
+    text-decoration: none;
+    font-size: 0.95rem;
+ color: darkslategray;
+}
+.card-link-multilabs:hover{
+    text-decoration: underline;
 }
 .module {
     background-color: white;
@@ -278,7 +288,7 @@ h2.subtitle{
     }
     .card-chapter{
     width: 40%;
-    height: 150px;
+    height: 200px;
 }
 
 }
